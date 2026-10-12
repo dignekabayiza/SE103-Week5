@@ -1,0 +1,10 @@
+Student Name: Digne Kabayiza
+
+What * meant in my pattern:
+In data*.txt, the * stands for any characters in that position. It matched the 1, 2 and 3 in data1.txt, data2.txt and data3.txt.
+
+Why I listed matches before copying:
+I ran ls with the same pattern first to see exactly which files it selected. That way I could check that the pattern matched only the files I wanted before copying anything. It is a safe habit that prevents surprises.
+
+Why wildcards are dangerous with delete commands:
+A wildcard can match more files than I expect, including important ones. A command like rm * deletes every match at once, and there is no recycle bin to recover them. A small typo in the pattern could wipe out the wrong files. So I should always list the matches with ls first and only then run the delete command.
