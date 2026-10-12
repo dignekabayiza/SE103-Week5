@@ -1,0 +1,13 @@
+Student Name: Digne Kabayiza
+
+What grep helped me do:
+Grep helped me search inside journal.txt for lines containing the word error. With the -n option, it also showed the line number, so I could see exactly where the match was.
+
+What find helped me do:
+Find helped me locate every .txt file inside the shell_practice folder. It searches by file name, so I could list the files without opening each one.
+
+What the pipe helped me do:
+The pipe sent the output of ls straight into grep, so I filtered the file list in one command. It let me chain two tools together without creating a temporary file.
+
+Difference between > and >>:
+The > symbol overwrites a file, so any old content is replaced. The >> symbol appends to the end of the file and keeps what was already there.
