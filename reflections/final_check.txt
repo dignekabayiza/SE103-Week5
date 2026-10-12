@@ -1,0 +1,7 @@
+Student Name: Digne Kabayiza
+GitHub Username: dignekabayiza
+Repository: SE103-Week5
+Repository URL: https://github.com/dignekabayiza/SE103-Week5
+All required files are on main: Yes
+One thing I would improve next time:
+I would create the repository on GitHub before I clone it, so my first clone does not fail. I would also read each task's exact file names and commit messages before I start. Finally, I would run git status before every commit to confirm I am staging only the files I want.
