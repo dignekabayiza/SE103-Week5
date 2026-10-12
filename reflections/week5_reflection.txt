@@ -1,0 +1,13 @@
+Student Name: Digne Kabayiza
+
+What I practiced in the shell:
+I practiced moving between folders with cd and checking my location with pwd. I used > to create files and >> to add lines without erasing them. I searched text with grep and located files with find. I used a pipe to send the output of ls into grep. I also used wildcards like data*.txt and listed the matches before copying them.
+
+How GitHub changed my submission habits:
+GitHub taught me to submit my work by committing and pushing instead of uploading files. Each task has an exact commit message, so I now read the instructions carefully before I commit. I check git status before every commit to make sure only the right files are included. I also verify my work on GitHub after pushing. Using branches and pull requests showed me how to propose changes safely.
+
+One mistake I made and how I fixed it:
+My first clone failed with a "Repository not found" error because the SE103-Week5 repository did not exist on GitHub yet. Because the clone failed, my files were created in my home folder instead of inside a repository. I fixed it by creating the repository from the terminal with the GitHub CLI. Then I moved my files into the repository folder, committed them, and pushed.
+
+Why the repository name had to be exactly SE103-Week5:
+The checker looks for a repository with that exact name, so a different name would not be found. Exact names also keep every student's work consistent and easy to grade automatically.
