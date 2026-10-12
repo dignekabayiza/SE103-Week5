@@ -1,0 +1,5 @@
+total 12
+drwxr-xr-x 2 digne digne 4096 Oct 12 16:47 .
+drwxr-xr-x 7 digne digne 4096 Oct 12 16:45 ..
+-rw-r--r-- 1 digne digne    0 Oct 12 16:41 .gitkeep
+-rw-r--r-- 1 digne digne  183 Oct 12 16:48 journal.txt
